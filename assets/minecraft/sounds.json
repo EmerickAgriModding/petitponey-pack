@@ -1,0 +1,10 @@
+{
+  "musique.petit_poney": {
+    "sounds": [
+      {
+        "name": "musique/petit_poney",
+        "stream": true
+      }
+    ]
+  }
+}
