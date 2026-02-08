@@ -1,0 +1,14 @@
+{
+  "musique.petit_poney": {
+    "sounds": [
+      {
+        "name": "musique/petit_poney",
+        "stream": true
+      }
+    ]
+  },
+
+  "test.son": {
+    "sounds": ["block.note_block.harp"]
+}
+}
